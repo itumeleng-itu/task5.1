@@ -19,8 +19,7 @@ https://socialify.git.ci/itumeleng-itu/task5.1/image?language=1&owner=1&name=1&s
 
 ## Tech Stack
 
-**Frontend:** React, HTML5, CSS3, JavaScript  
-**Backend:** Node.js, Express.js  
-**Database:** MongoDB  
-**Version Control:** Git & GitHub  
-**Other Tools:** Axios, dotenv, Jest
+**Frontend:**  HTML5, CSS3, JavaScript  
+**Backend:** Javascript  
+
+
